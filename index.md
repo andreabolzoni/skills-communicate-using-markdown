@@ -2,6 +2,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-''' Python
+``` Python
 my_var = "Hello, world!"
-'''
+```
+
